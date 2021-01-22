@@ -1,7 +1,7 @@
 const express = require("express");
 
 // set up port
-let PORT = process.env.PORT || 3003;
+let PORT = process.env.PORT || 3000;
 
 // create app
 let app = express();
