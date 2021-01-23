@@ -50,3 +50,5 @@ To access full client package on web hit  http://localhost:3000/client
 		- commit you changes using 'git commit -m "First commit"'
 		- Push and deploy changes using "git push heroku master"
     - For futher changes just git add, commit and push to heroku
+
+![Alt text](Eat-da-burger.gif) / ![](Eat-da-burger.gif)
