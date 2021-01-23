@@ -44,7 +44,7 @@ const Dashboard = () => {
     <>
       <div className="columns is-centered">
         <div className="column is-one-third ">
-          <h1 className="has-text-centered is-size-1">nom nom nom!</h1>
+          <h1 className="has-text-centered is-size-1">React - Eat Da Burger!</h1>
           <figure className="image container">
             <img src="assets/img/Burger_HD.gif" alt="Burger" />
           </figure>
