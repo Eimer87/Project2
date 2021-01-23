@@ -11,7 +11,7 @@
 - Added routing so that both the versions can be accessible using different routes ie. server side react version(http://localhost:3000/) and
 - client side version on web(http://localhost:3000/client)
 - Applied some extra css related to scrolling of panels, if want to reset css changes, remove all css from assets\style\burger_style.css file.
-
+- Created a .gif for the main page.
  * Check password for mysql db in file burger-api\config\connection.js before starting the app. If any issue persist make password: "" in the file  
 
 ***
